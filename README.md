@@ -88,7 +88,7 @@ Everything below is an outline, and you should tackle the items in order from to
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
 - [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
+- [x] Yes
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Follow me
