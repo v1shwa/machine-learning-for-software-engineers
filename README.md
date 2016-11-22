@@ -125,8 +125,8 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 	- Started..(doing in the background)
 - [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
-- [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
-
+- [x] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+	- Not really.
 ## The Daily Plan
 
 Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
